@@ -1,5 +1,5 @@
 
-## Olaa! eu sou Deborah, estou cursando na area de TI
+## Olaa! eu sou Deborah, estou cursando na area de TI :)
 
 <div> 
  <a href="https://www.instagram.com/deb0rahhh_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
