@@ -1,7 +1,7 @@
 
 ### 
  
-   <img align="left" alt="debor-pic" height="180" style="border-radius:60px;" src="https://cdn.discordapp.com/attachments/780424788593082368/949392099638390784/Webp.net-gifmaker_2.gif">
+   <img align="left" alt="debor-pic" height="180" style="border-radius:60px;" src="https://cdn.discordapp.com/attachments/780424788593082368/949807171607089162/Webp.net-gifmaker.gif">
 <div> 
  <a href="https://www.instagram.com/deb0rahhh_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/deborah-picado-858659232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
