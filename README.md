@@ -10,6 +10,6 @@
  
  <h3 align="left"> Hi there welcome! Am Deborah 👋 </h3>
  
- > I'm a 2rd year student pursing a bachelor degree in Information System 👩🏽‍💻 from UNIFACOL in Vitoria de Santo Antao, Brazil🎓. I'm a curious learner who's willing to learn and study more about tecnology and other computer languages 💻 am currrently focusing on learning more about JAVA and Python🙂. Thanks for passing by🙋🏽‍♀️
+ > I'm a 2rd year student pursing a bachelor degree in Information System 👩🏽‍💻 from UNIFACOL in Vitoria de Santo Antao, Brazil🎓. I'm a curious learner who's willing to learn and study more about tecnology and other computer languages 💻 am currrently focusing on learning more about JAVA and Python🙂.Anyways Thanks for passing by🙋🏽‍♀️
  
 </div>
