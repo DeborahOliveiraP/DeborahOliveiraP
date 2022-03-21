@@ -1,6 +1,6 @@
 ###
  
-   <img align="left" alt="debor-pic" height="180" style="border-radius:60px;" src="https://cdn.discordapp.com/attachments/780424788593082368/949816146306166804/Webp.net-gifmaker.gif">
+   <img align="left" alt="debor-pic" height="195" style="border-radius:60px;" src="https://cdn.discordapp.com/attachments/780424788593082368/949816146306166804/Webp.net-gifmaker.gif">
    
  <a href="https://www.instagram.com/deb0rahhh_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
  <a href="https://www.linkedin.com/in/deborah-picado-858659232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
