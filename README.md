@@ -6,7 +6,7 @@
  <a href="https://www.linkedin.com/in/deborah-picado-858659232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:deborah.oliveirapicado@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
- <h3 align="left"> Hi there welcome! Am Deborah 👋 </h3>
+ <h3 align="left"> Hi there welcome! Am Deborah <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> </h3>
  
  > I'm a 2rd year student pursing a bachelor degree in Information System 👩🏽‍💻 from UNIFACOL in Brazil🎓. I'm a curious learner who's willing to learn and study more about tecnology and other computer languages 💻 am currrently focusing on learning more about JAVA and Python🙂.Thanks for passing by🙋🏽‍♀️
  
