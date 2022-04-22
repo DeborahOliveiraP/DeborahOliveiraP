@@ -34,6 +34,7 @@
   
 <h3><img src='https://whateverbrightthings.com/wp-content/uploads/2020/08/Pink-Dot.png' width="15px"> Name: Deborah Oliveira</h3>
 <h3><img src='https://whateverbrightthings.com/wp-content/uploads/2020/08/Pink-Dot.png' width="15px"> Age: 19 </h3>
+<h3><img src='https://whateverbrightthings.com/wp-content/uploads/2020/08/Pink-Dot.png' width="15px"> Nationality: Brazil</h3>
 <h3><img src='https://whateverbrightthings.com/wp-content/uploads/2020/08/Pink-Dot.png' width="15px"> Course: SI (Sistema Informacao/Information System) </h3>
 <h3><img src='https://whateverbrightthings.com/wp-content/uploads/2020/08/Pink-Dot.png' width="15px"> 2022 Goals: </h3>
  
