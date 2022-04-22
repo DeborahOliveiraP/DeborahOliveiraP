@@ -9,7 +9,7 @@
 <img align="center" width="8%" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" width="9%" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
  
-<h3 align="center"><img src='https://c.tenor.com/X7NYqp5lxZoAAAAj/love-letter-heart.gif' width="35px"> <img src='https://cdn.discordapp.com/attachments/780424788593082368/967116845549223996/Contact_me.png' width="127px"> </h3>
+<h3 align="center"><img src='https://cdn.discordapp.com/attachments/780424788593082368/967116845549223996/Contact_me.png' width="127px"> </h3>
 <p align= "center">
 <a href="https://www.instagram.com/deborahholiveirap/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"target="_blank"></a> 
 <a href="https://www.linkedin.com/in/deborah-oliveira-picado-858659232/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"target="_blank"></a> 
