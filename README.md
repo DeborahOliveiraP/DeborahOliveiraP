@@ -1,7 +1,7 @@
 <img src="https://cdn.discordapp.com/attachments/780424788593082368/967098485960769656/Deborah_Oliveira_3.png" width="100%">
 
 
-#### <h3 align="center"> <img src='https://pa1.narvii.com/8050/291831f081a0b15db3ff50aca0ff51d1c279b1c2r1-480-480_hq.gif' width="30px"> <img src='https://cdn.discordapp.com/attachments/780424788593082368/967116334720749578/Languages_and_tools.png' width="230px"></h3>
+#### <h3 align="center"><img src='https://cdn.discordapp.com/attachments/780424788593082368/967116334720749578/Languages_and_tools.png' width="230px"></h3>
 
 <p align="center">
 <img align="center" width="7%" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -23,7 +23,7 @@
  
    
  <details>
-  <summary align="center">Info about me:</summary>
+  <summary align="center">About me:</summary>
 <div align="center">
   
  <h1 align="center"> <img  src='https://cdn.discordapp.com/attachments/780424788593082368/967074195924222003/image-from-rawpixel-id-2582091-original.png' width="400px"> </h1>
@@ -40,6 +40,14 @@
 - Finish my Web Development Course.  
 - Code faster.
 - Build my own WebSite.
- 
+</div>
+
+<div align="center">
+  <h1 align="center"></h1>
+  <a href="https://github.com/DeborahOliveiraP">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeborahOliveiraP&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeborahOliveiraP&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 </details>
+
+ 
