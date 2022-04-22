@@ -35,13 +35,11 @@
 <h3><img src='https://whateverbrightthings.com/wp-content/uploads/2020/08/Pink-Dot.png' width="15px"> Name: Deborah Oliveira</h3>
 <h3><img src='https://whateverbrightthings.com/wp-content/uploads/2020/08/Pink-Dot.png' width="15px"> Age: 19 </h3>
 <h3><img src='https://whateverbrightthings.com/wp-content/uploads/2020/08/Pink-Dot.png' width="15px"> Course: SI (Sistema Informacao/Information System) </h3>
-<h3><img src='https://whateverbrightthings.com/wp-content/uploads/2020/08/Pink-Dot.png' width="15px"> Foucesing on: </h3>
-
-- Learning more about Java  
-- Finish my Web Development Course  
-- Practecing how fast i can code (currently: not very fast) 
-  
-<br>
-
+<h3><img src='https://whateverbrightthings.com/wp-content/uploads/2020/08/Pink-Dot.png' width="15px"> 2022 Goals: </h3>
+ 
+- Finish my Web Development Course.  
+- Code faster.
+- Build my own WebSite.
+ 
 </div>
 </details>
