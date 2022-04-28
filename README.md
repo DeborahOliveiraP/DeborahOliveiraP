@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/780424788593082368/967098485960769656/Deborah_Oliveira_3.png" width="100%">
+<img src="https://cdn.discordapp.com/attachments/780424788593082368/969281169948545034/unknown.png" width="100%">
 
 
 #### <h3 align="center"><img src='https://cdn.discordapp.com/attachments/780424788593082368/967116334720749578/Languages_and_tools.png' width="230px"></h3>
