@@ -29,7 +29,7 @@
   
  <h1 align="center"> <img  src='https://cdn.discordapp.com/attachments/780424788593082368/967074195924222003/image-from-rawpixel-id-2582091-original.png' width="400px"> </h1>
   
-  <img align="right" alt="Deborah-pic" height="300" style="border-radius:60px;" src="https://cdn.discordapp.com/attachments/780424788593082368/967071111932166205/Webp.net-gifmaker_1.gif">
+  <img align="left" height="300" style="border-radius:60px;" src="https://cdn.discordapp.com/attachments/780424788593082368/967071111932166205/Webp.net-gifmaker_1.gif">
   
 </div>
   
