@@ -29,8 +29,6 @@
   
  <h1 align="center"> <img  src='https://cdn.discordapp.com/attachments/780424788593082368/967074195924222003/image-from-rawpixel-id-2582091-original.png' width="400px"> </h1>
   
-  <img align="left" height="300" style="border-radius:60px;" src="https://cdn.discordapp.com/attachments/780424788593082368/967071111932166205/Webp.net-gifmaker_1.gif">
-  
 </div>
   
 <h3><img src='https://whateverbrightthings.com/wp-content/uploads/2020/08/Pink-Dot.png' width="15px"> Name: Deborah Oliveira</h3>
