@@ -12,7 +12,7 @@
  
 <h3 align="center"><img src='https://cdn.discordapp.com/attachments/780424788593082368/967116845549223996/Contact_me.png' width="127px"> </h3>
 <p align= "center">
-<a href="https://www.instagram.com/deborahholiveirap/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"target="_blank"></a> 
+<a href="https://www.instagram.com/deboraholiveiradev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"target="_blank"></a> 
 <a href="https://www.linkedin.com/in/deborah-oliveira-picado-858659232/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"target="_blank"></a> 
 <a href = "mailto:deborah.oliveirapicado@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 <a href="https://github.com/DeborahOliveiraP" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> 
