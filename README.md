@@ -34,7 +34,7 @@
  <img align="right" alt="Deborah-pic" height="320" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/780424788593082368/967071111932166205/Webp.net-gifmaker_1.gif">
   
 <h3><img src='https://whateverbrightthings.com/wp-content/uploads/2020/08/Pink-Dot.png' width="15px"> Name: Deborah Oliveira</h3>
-<h3><img src='https://whateverbrightthings.com/wp-content/uploads/2020/08/Pink-Dot.png' width="15px"> Age: 19 </h3>
+<h3><img src='https://whateverbrightthings.com/wp-content/uploads/2020/08/Pink-Dot.png' width="15px"> Age: 20 </h3>
 <h3><img src='https://whateverbrightthings.com/wp-content/uploads/2020/08/Pink-Dot.png' width="15px"> Nationality: Brazil</h3>
 <h3><img src='https://whateverbrightthings.com/wp-content/uploads/2020/08/Pink-Dot.png' width="15px"> Major: SI (Sistema Informacao/Information System) </h3>
 <h3><img src='https://whateverbrightthings.com/wp-content/uploads/2020/08/Pink-Dot.png' width="15px"> 2022 Goals: </h3>
