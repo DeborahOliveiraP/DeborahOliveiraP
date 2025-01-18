@@ -35,7 +35,7 @@
 <h3><img src='https://whateverbrightthings.com/wp-content/uploads/2020/08/Pink-Dot.png' width="15px"> Age: 22 </h3>
 <h3><img src='https://whateverbrightthings.com/wp-content/uploads/2020/08/Pink-Dot.png' width="15px"> Nationality: Brazil</h3>
 <h3><img src='https://whateverbrightthings.com/wp-content/uploads/2020/08/Pink-Dot.png' width="15px"> Major: Information System </h3>
-<h3><img src='https://whateverbrightthings.com/wp-content/uploads/2020/08/Pink-Dot.png' width="15px"> 2024 Goals: </h3>
+<h3><img src='https://whateverbrightthings.com/wp-content/uploads/2020/08/Pink-Dot.png' width="15px"> 2025 Goals: </h3>
  
 - Finish my study Courses.  
 - Get my Masters degree in Data Engineering.
