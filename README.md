@@ -1,7 +1,7 @@
-<img src="https://i.pinimg.com/originals/a4/04/a4/a404a481f48045b1a24cdbba5cc8d350.gif" width="90%">
 
 
-#### <h3 align="center"></h3>
+
+#### <h3 align="center"><img src="https://i.pinimg.com/originals/a4/04/a4/a404a481f48045b1a24cdbba5cc8d350.gif" width="90%"></h3>
 
 <p align="center">
 <img align="center" width="5%" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
